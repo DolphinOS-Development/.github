@@ -2,7 +2,7 @@
 
 ## What is DolphinOS
 
-DolphinOS is project that can convert any x86_64 system into a functional Wii console.
+DolphinOS is a project that can convert any x86_64 system into a functional Wii console.
 
 The OS itself is a modified Arch Linux distribution, and the main piece of software it uses is the Dolphin Wii emulator.
 The OS is configured so that the system automatically "seems to boot" directly into the Wii system.
